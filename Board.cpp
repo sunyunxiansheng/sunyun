@@ -1,4 +1,4 @@
-#include "Board.h"afafaf
+#inc"afafaf
 #include <QPainter>
 #include <QMouseEvent>
 #include <QDebug>
